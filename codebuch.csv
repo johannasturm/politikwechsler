@@ -1,0 +1,23 @@
+CODEBUCH,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc."
+time,"definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde."
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird."
+name,Name oder Bezeichnung des Knotens.
+sex,"dichotome Ausprägung: männlich, weiblich, divers. Einfacher auch numerisch als 1, 2 oder 3 zu kodieren. Männlich = 1, weiblich = 2, divers = 3"
+type,1= Akteur 2 = Ministerium 3 = Medienhaus 4= Kabinett 5= Partei
+term_of_office,definiert wie lange der Akteur im Amt des Regierungspressesprechers war
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus."
+prior_role,"definiert welchen Beruf der Akteur vor dem Amt des Regierungspressesprechers hatte.
+ Kodiert nach: Öffentlich-Rechtlich (als 1), Privat ( als 2) oder Politik (als 3), PR (als 4), was Anderes (als 5), PolitikPR (als 6)"
+after_role,"definiert welchen Beruf der Akteur nach dem Amt des Regierungspressesprechers ausgeführt hat. Kodiert nach: Öffentlich-Rechtlich (als 1) , Privat (als 2), Politik (als 3), PR (als 4), was Anderes (als 5), PolitikPR (als 6)"
+lobby,definiert ob der Akteur später Lobbyarbeit gemacht hat. Numerisch als 1 (ja) oder 2 (Nein) zu kodieren.
+party,"definiert in welcher Partei der Akteur zugehörig ist. (Union, SPD, Grüne, FDP)"
+medium_type,"definiert bei welchem Medium der Akteur zuletzt gearbeitet hat.
+Kodiert nach: Öffentlich-Rechtlich = 1, Privat = 2"
+cabinet,"Definiert bei welchem Kabinett der jeweilige Regierungssprecher präsent war. Numerisch kodiert: 1 = Merkel 2= Merz, 3 = Scholz"
+medium,"Definiert bei welchem Medienhaus der Akteur gearbeitet hat. (Bild, ARD, ZDF, Spiegel, FAZ, Zeit, etc.)"
+ministry,"Definiert zu welchem Ministerum zugehörig (Finanzen, Wirtschaft, Inneres, etc.)"
