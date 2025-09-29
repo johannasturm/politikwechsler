@@ -532,8 +532,8 @@ JEb,union
 SSb,ernaeb
 RWb,wohnb
 RWb,stn
-RHeb,staab
-RHeb,gruene
+RHb,staab
+RHb,gruene
 DBb,wissb
 AAb,justizb
 AAb,union
@@ -554,8 +554,8 @@ RSb,justizb
 RSb,union
 MEJb,wirtb
 KLb,wirtb
-RHb,umwb
-RHb,swr
+RHeb,umwb
+RHeb,swr
 CSb,kulb
 CSb,spd
 MASb,fib
@@ -567,4 +567,5 @@ SWb,axsp
 EGb,kulb
 ERb,kulb
 ERb,stz
+
 
