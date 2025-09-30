@@ -462,6 +462,7 @@ k3,spd
 2c,30c
 3c,31c
 4c,43c
+4c,32c
 5c,rtl
 5c,33c
 6c,axsp
@@ -573,6 +574,7 @@ SWb,axsp
 EGb,kulb
 ERb,kulb
 ERb,stz
+
 
 
 
