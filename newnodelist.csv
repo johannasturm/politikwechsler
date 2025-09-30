@@ -117,7 +117,6 @@ id,name,sex,type,term_of_office,prior_role,after_role,party,medium_type,cabinet,
 118d,Kabinett Söder1,NA,4,2018 bis 2018,NA,NA,Union,NA,Söder1,NA,NA
 119d,Kabinett Söder2,NA,4,2018 bis 2023,NA,NA,Union,NA,Söder2,NA,NA
 120d,Kabinett Söder3,NA,4,2023 bis jetzt,NA,NA,Union,NA,Söder3,NA,NA
-121d,Süddeutsche Zeitung,NA,3,NA,NA,NA,NA,2,NA,NA,NA
 122d,Berliner Morgenpost,NA,3,NA,NA,NA,NA,2,NA,NA,NA
 123d,intv,NA,3,NA,NA,NA,NA,2,NA,NA,NA
 124d,Oberpfalz TV,NA,3,NA,NA,NA,NA,2,NA,NA,NA
@@ -384,4 +383,5 @@ stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
 
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+
 
