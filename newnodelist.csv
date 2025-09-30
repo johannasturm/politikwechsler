@@ -307,7 +307,7 @@ ntv,n-tv,NA,3,NA,NA,NA,NA,2,NA,NA,NA
 29c,Westdeutsche Zeitung,NA,3,NA,NA,NA,NA,2,NA,NA,NA
 30c,Innenministerium NRW,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
 31c,"Arbeit, Gesundheit, Soziales NRW",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
-32,Finanzministerium NRW,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+32c,Finanzministerium NRW,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
 33c,"Wirtschaft, Industrie, Klimaschutz & Energie NRW",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
 34c,"Umwelt, Naturschutz & Verkehr NRW",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
 35c,Schule & Bildung NRW,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -381,6 +381,7 @@ stz,Stuttgarter Zeitung,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
 stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+
 
 
 
