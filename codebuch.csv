@@ -21,3 +21,4 @@ Kodiert nach: Öffentlich-Rechtlich = 1, Privat = 2"
 cabinet,"Definiert bei welchem Kabinett der jeweilige Regierungssprecher präsent war. Numerisch kodiert: 1 = Merkel 2= Merz, 3 = Scholz"
 medium,"Definiert bei welchem Medienhaus der Akteur gearbeitet hat. (Bild, ARD, ZDF, Spiegel, FAZ, Zeit, etc.)"
 ministry,"Definiert zu welchem Ministerum zugehörig (Finanzen, Wirtschaft, Inneres, etc.)"
+state, definiert das Bundesland oder die Bundesebene. (b = Bund, ba = Bayern, bw = Baden-Württemberg, nrw = Nordrhein-Westfalen)
