@@ -52,7 +52,7 @@ id,name,sex,type,term_of_office,prior_role,after_role,party,medium_type,cabinet,
 53d,Franziska Meinl,2,1,2024 bis jetzt,4,NA,NA,NA,NA,NA,"Wirtschaft, Landesentwicklung und Energie",ba
 54d,Bastian Brummer,1,1,2024 bis jetzt,"2, 5",NA,NA,2,NA,Mayer & Söhne Druck- und Mediengruppe GmbH & Co. KG,"Wirtschaft, Landesentwicklung und Energie",ba
 55d,Katrin van Randenborgh,2,1,2014 bis 2018,"2, 6",4,NA,2,NA,Focus Magazin,"Wirtschaft, Landesentwicklung und Energie",ba
-56d,Florian Baumann,1,1,2015 bis 2018,"1, 2. 5","4, 5, 6",NA,"1,2",NA,"SZ, BR","Wirtschaft, Landesentwicklung und Energie", ba
+56d,Florian Baumann,1,1,2015 bis 2018,"1, 2. 5","4, 5, 6",NA,"1,2",NA,"SZ, BR","Wirtschaft, Landesentwicklung und Energie",ba
 57d,Thomas Assenbrunner,1,1,2020 bis 2023,"2, 5, 6",4,NA,2,NA,"Eurosport, Sky, Donaukurier","Wirtschaft, Landesentwicklung und Energie",ba
 58d,Karl Ilgenfritz,1,1,2019 bis 2023,"3, 5, 6",5,NA,NA,NA,NA,"Wirtschaft, Landesentwicklung und Energie",ba
 59d,Angela Back,2,1,2017 bis 2021,"2, 5",6,NA,2,NA,"Mediengruppe Main-Post GmbH, Radio PrimaTon","Wirtschaft, Landesentwicklung und Energie",ba
@@ -379,6 +379,7 @@ stz,Stuttgarter Zeitung,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+
 
 
 
