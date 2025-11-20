@@ -257,7 +257,7 @@ aka,Andreas Kappler,1,1,2021 bis 2025,"1,2,6","3,6",NA,"1,2",3,"RTL Aktuell, WDR
 ss,Steffen Seibert,1,1,2010 bis 2021,1,3,CDU,1,1,"ZDF, heute-journal, hallo Deutschland",Bundeskanzleramt,b
 ud,Ulrike Demmer,2,1,2016 bis 2021,1,1,NA,1,1,"rbb, SZ, ZDF, Der Spiegel, Focus, RedaktionsNetzwerk Deutschland",Bundeskanzleramt,b
 mf,Martina Fietz,2,1,2018 bis 2021,1,NA,NA,"1,2",1,"WDR, ZDF, Die Welt, Focus Online",Bundeskanzleramt,b
-ssh,Sabine Saphörster-Heimbach,2,1,2010 bis 2013,"2,3,6","3,4",CSU,2,1,RIAS (Radiosender im Amerikanischen Sektor),Bundeskanzleramt,b
+ssh,Sabine Saphörster-Heimbach,2,1,2010 bis 2013,"2,3,6","3,4",Union,2,1,RIAS (Radiosender im Amerikanischen Sektor),Bundeskanzleramt,b
 gs,Georg Streiter,1,1,2011 bis 2018,"2,3","3,6",NA,2,1,"Bonner Rundschau, Bild, Stern",Bundeskanzleramt,b
 cwi,Christiane Wirtz,2,1,2014 bis 2016,"2,6","2,5",NA,2,1,"SZ, Deutschlandfunk",Bundeskanzleramt,b
 jf,Jens Flosdorff,1,1,2017 bis 2021,4,6,NA,NA,1,NA,Bundesministerium für Verteidigung,b
@@ -269,7 +269,7 @@ ju,Jens Urban,1,1,2015 bis 2018; 2020-2021,"2,6",3,NA,NA,1,"Radio Charivari 98,6
 jg,Jan Grossarth,1,1,2019 bis 2020,"2,3","5,2",NA,2,1,"FAZ, SZ",Bundesministerium für Landwirtschaft,b
 ka,Katja Angeli,2,1,2016 bis 2018,6,6,NA,NA,1,NA,Bundesministerium für Gesundheit,b
 tj,Thomas Jäger,1,1,2017 bis 2021,6,6,NA,NA,1,NA,Bundesministerium für Bildung,b
-shi,Sebastian Hille,1,1,2016 bis 2017,"2,4,6",6,CSU,2,"1,2",Das Parlament,Bundesministerium für Verkehr und Digitales; Bundeskanzleramt,b
+shi,Sebastian Hille,1,1,2016 bis 2017,"2,4,6",6,Union,2,"1,2",Das Parlament,Bundesministerium für Verkehr und Digitales; Bundeskanzleramt,b
 dp,Das Parlament,NA,3,NA,NA,NA,NA,2,NA,NA,NA,b
 dlf,Deutschlandfunk,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 ste,Stern,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
@@ -379,6 +379,7 @@ stz,Stuttgarter Zeitung,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+
 
 
 
