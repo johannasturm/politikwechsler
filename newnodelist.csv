@@ -171,7 +171,7 @@ br,BR,NA,3,NA,NA,NA,NA,1,NA,NA,NA,NA
 swr,SWR,NA,3,NA,NA,NA,NA,1,NA,NA,NA,NA
 rbb,RBB,NA,3,NA,NA,NA,NA,1,NA,NA,NA,NA
 wdr,WDR,NA,3,NA,NA,NA,NA,1,NA,NA,NA,NA
-spd,spd,NA,5,NA,NA,NA,SPD,NA,NA,NA,NA,NA
+spd,SPD,NA,5,NA,NA,NA,SPD,NA,NA,NA,NA,NA
 union,Union,NA,5,NA,NA,NA,Union,NA,NA,NA,NA,NA
 gruene,Grüne,NA,5,NA,NA,NA,Grüne,NA,NA,NA,NA,NA
 fdp,FDP,NA,5,NA,NA,NA,FDP,NA,NA,NA,NA,NA
@@ -379,6 +379,7 @@ stz,Stuttgarter Zeitung,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+
 
 
 
