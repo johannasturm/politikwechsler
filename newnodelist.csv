@@ -177,8 +177,8 @@ gruene,Grüne,NA,5,NA,NA,NA,Grüne,NA,NA,NA,NA,NA
 fdp,FDP,NA,5,NA,NA,NA,FDP,NA,NA,NA,NA,NA
 bka,Bundeskanzleramt,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
 sk,Stefan Kornelius,1,1,2025 bis jetzt,1,NA,NA,1,2,SZ,Bundeskanzleramt,b
-k1,Kabinett 1 - Merkel,NA,4,2017 bis 2021,NA,NA,CDU,NA,1,NA,NA,b
-k2,Kabinett 2 - Merz,NA,4,2025 bis jetzt,NA,NA,CDU,NA,2,NA,NA,b
+k1,Kabinett 1 - Merkel,NA,4,2017 bis 2021,NA,NA,Union,NA,1,NA,NA,b
+k2,Kabinett 2 - Merz,NA,4,2025 bis jetzt,NA,NA,Union,NA,2,NA,NA,b
 k3,Kabinett 3 - Scholz,NA,4,2021 bis 2025,NA,NA,SPD,NA,3,NA,NA,b
 sm,Steffen Meyer,1,1,2025 bis jetzt,3,NA,SPD,NA,2,NA,Bundeskanzleramt,b
 bmvg,Bundesministerium für Verteidigung,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
@@ -204,31 +204,31 @@ ld,Lena Daldrup,2,1,2025 bis jetzt,3,NA,SPD,NA,2,NA,Bundesministerium für wirts
 aab,Aline Abboud,2,1,2025 bis jetzt,1,NA,NA,1,2,"ARD, ZDF",Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung,b
 bmjv,Bundesministerium für Justiz und Verwaltung,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
 jc,Julia Camerer,2,1,2025 bis jetzt,1,NA,SPD,1,2,"Bild, n-tv, ARD, rbb",Bundesministerium für Justiz und Verbraucherschutz,b
-eh,Eike Hosemann,1,1,2025 bis jetzt,3,NA,CDU,NA,2,NA,Bundesministerium für Justiz und Verbraucherschutz,b
+eh,Eike Hosemann,1,1,2025 bis jetzt,3,NA,Union,NA,2,NA,Bundesministerium für Justiz und Verbraucherschutz,b
 bmv,Bundeministerium für Verkehr,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
-gl,Georg Link,1,1,2025 bis jetzt,1,NA,CDU,1,2,SWR,Bundesministerium für Verkehr,b
+gl,Georg Link,1,1,2025 bis jetzt,1,NA,Union,1,2,SWR,Bundesministerium für Verkehr,b
 jb,Johannes Blankenheim,1,1,2025 bis jetzt,4,NA,NA,NA,2,NA,Bundesministerium für Verkehr,b
 bmg,Bundesministerium für Gesundheit,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
-hb,Hannes Böckel,1,1,2025 bis jetzt,3,NA,CDU,NA,2,NA,Bundesministerium für Gesundheit,b
+hb,Hannes Böckel,1,1,2025 bis jetzt,3,NA,Union,NA,2,NA,Bundesministerium für Gesundheit,b
 sg,Sebastian Gülde,1,1,2025 bis jetzt,1,NA,NA,2,2,Helios Media,Bundesministerium für Gesundheit,b
 hme,Helios Medien,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 bmu,"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
 nf,Nikolai Fichtner,1,1,2025 bis jetzt,"2,4",NA,NA,2,2,taz,"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",b
 ak,Andreas Kübler,1,1,2025 bis jetzt,NA,NA,NA,NA,2,NA,"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",b
 bmb,"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
-apf,Anja Pfeffermann,2,1,2025 bis jetzt,"4,6",NA,CDU,NA,2,NA,"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",b
+apf,Anja Pfeffermann,2,1,2025 bis jetzt,"4,6",NA,Union,NA,2,NA,"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",b
 dl,Dominik Lenz,1,1,2025 bis jetzt,NA,NA,NA,"1,2",2,"FAZ, rbb, Stimme Russlands und Zenith","Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",b
 faz,Frankfurter Allgemeine Zeitung,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 str,Stimme Russlands,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 ze,Zenith,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 bmds,Bundesministerium für Digitales und Staatsmodernisierung,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
-bk,Betty Kieß,2,1,2025 bis jetzt,"4,6",NA,CDU,NA,2,NA,Bundesministerium für Digitales und Staatsmodernisierung,b
+bk,Betty Kieß,2,1,2025 bis jetzt,"4,6",NA,Union,NA,2,NA,Bundesministerium für Digitales und Staatsmodernisierung,b
 fd,Florian Druckenthaner,1,1,2025 bis jetzt,"4,5,6",NA,NA,NA,2,NA,Bundesministerium für Digitales und Staatsmodernisierung,b
 bmas,Bundesministerium für Arbeit & Soziales,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
 ie,Irene Etzkorn,2,1,2025 bis jetzt,"2,6",NA,NA,2,2,Potsdamer Allgemeine,Bundesministerium für Arbeit & Soziales,b
 ts,Tim Stoltenberg,1,1,2025 bis jetzt,5,NA,NA,NA,2,NA,Bundesministerium für Arbeit & Soziales,b
 bmftr,"Bundesministerium für Forschung, Technologie und Raumfahrt",NA,2,NA,NA,NA,NA,NA,NA,NA,NA,b
-cha,Christina Harbusch,2,1,2025 bis jetzt,"2,4,6",NA,CDU,2,2,Herder Korrespondenz,"Bundesministerium für Forschung, Technologie und Raumfahrt",b
+cha,Christina Harbusch,2,1,2025 bis jetzt,"2,4,6",NA,Union,2,2,Herder Korrespondenz,"Bundesministerium für Forschung, Technologie und Raumfahrt",b
 ks,Kristin Schneidewindt,2,1,2025 bis jetzt,6,NA,NA,NA,2,NA,"Bundesministerium für Forschung, Technologie und Raumfahrt",b
 sh,Steffen Hebestreit,1,1,2021 bis 2025,"2,3,6",NA,SPD,2,3,"Frankfurter Rundschau, DuMont Redaktion",Bundeskanzleramt,b
 wb,Wolfgang Büchner,1,1,2021 bis 2025,"2,6",NA,FDP,2,3,"Der Spiegel,Spiegel Online, dpa, rnd",Bundeskanzleramt,b
@@ -250,11 +250,11 @@ bl,Bettina Lauer,2,1,2021 bis 2025,6,6,FDP,NA,3,NA,Bundesministerium für Verkeh
 skr,Stephanie Krüger,1,1,2021 bis 2024,"4,6",3,NA,NA,3,NA,Bundesministerium für Justiv,b
 hk,Hanno Kautz,1,1,2018 bis 2025,2,3,NA,2,3,Bild,Bundesministerium für Gesundheit,b
 ph,Parissa Hajebi,2,1,2021 bis 2024,6,6,NA,NA,3,NA,Bundesministerium für Gesundheit,b
-msc,Michael Schroeren,1,1,2021 bis 2025,"2,3,6",NA,CDU,2,3,Berliner Morgenpost,Bundesministerium für Umwelt,b
+msc,Michael Schroeren,1,1,2021 bis 2025,"2,3,6",NA,Union,2,3,Berliner Morgenpost,Bundesministerium für Umwelt,b
 mkl,Martin Kleinemas,1,1,2021 bis 2025,"2,6",6,NA,2,3,"Welt, Deutscher Bundeswehrverband",Bundesministerium für Bildung und Forschung,b
 fh,Franziska Haas,2,1,2021 bis 2025,4,6,NA,NA,3,NA,Bundesministerium für Arbeit & Soziales,b
 aka,Andreas Kappler,1,1,2021 bis 2025,"1,2,6","3,6",NA,"1,2",3,"RTL Aktuell, WDR",Bundesministerium für Bildung und Forschung,b
-ss,Steffen Seibert,1,1,2010 bis 2021,1,3,CDU,1,1,"ZDF, heute-journal, hallo Deutschland",Bundeskanzleramt,b
+ss,Steffen Seibert,1,1,2010 bis 2021,1,3,Union,1,1,"ZDF, heute-journal, hallo Deutschland",Bundeskanzleramt,b
 ud,Ulrike Demmer,2,1,2016 bis 2021,1,1,NA,1,1,"rbb, SZ, ZDF, Der Spiegel, Focus, RedaktionsNetzwerk Deutschland",Bundeskanzleramt,b
 mf,Martina Fietz,2,1,2018 bis 2021,1,NA,NA,"1,2",1,"WDR, ZDF, Die Welt, Focus Online",Bundeskanzleramt,b
 ssh,Sabine Saphörster-Heimbach,2,1,2010 bis 2013,"2,3,6","3,4",Union,2,1,RIAS (Radiosender im Amerikanischen Sektor),Bundeskanzleramt,b
@@ -264,7 +264,7 @@ jf,Jens Flosdorff,1,1,2017 bis 2021,4,6,NA,NA,1,NA,Bundesministerium für Vertei
 bn,Boris Nannt,1,1,2017 bis 2021,5,5,NA,NA,1,NA,Bundesministerium für Verteidigung,b
 cb,Christofer Burger,1,1,2018 bis 2023,"3,6","3,6",NA,NA,1,NA,Bundesministerium für Äußeres,b
 bg,Björn Grünwalder,1,1,2019 bis 2023,"3,6",6,NA,NA,1,NA,Bundesministerium für Inneres,b
-dg,Daniel Greve,1,1,2017 bis 2021,6,6,CDU,NA,1,NA,Bundesministerium für Wirtschaft,b
+dg,Daniel Greve,1,1,2017 bis 2021,6,6,Union,NA,1,NA,Bundesministerium für Wirtschaft,b
 ju,Jens Urban,1,1,2015 bis 2018; 2020-2021,"2,6",3,NA,NA,1,"Radio Charivari 98,6",Bundesministerium für Landwirtschaft,b
 jg,Jan Grossarth,1,1,2019 bis 2020,"2,3","5,2",NA,2,1,"FAZ, SZ",Bundesministerium für Landwirtschaft,b
 ka,Katja Angeli,2,1,2016 bis 2018,6,6,NA,NA,1,NA,Bundesministerium für Gesundheit,b
@@ -289,8 +289,8 @@ ntv,n-tv,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA
 11c,Juliana Stockheim,2,1,NA,NA,NA,NA,NA,NA,NA,"Kinder, Familie, Flüchtlinge, Integration",nrw
 12c,Mariam Karout,2,1,NA,NA,NA,NA,NA,NA,NA,"Kinder, Familie, Flüchtlinge, Integration",nrw
 13c,Ursula Kissel,2,1,NA,NA,NA,NA,NA,NA,NA,"Kinder, Familie, Flüchtlinge, Integration",nrw
-14c,Christian Wiermer,1,1,2017 bis 2025,2,NA,CDU,2,NA,DuMont- Gruppe,Regierungssprecher,nrw
-15c,Axel Bäumer,1,1,2022 bis jetzt,3,NA,CDU,2,NA,NA,"Europa, Internationales, Medien/ Staatskanzlei",nrw
+14c,Christian Wiermer,1,1,2017 bis 2025,2,NA,Union,2,NA,DuMont- Gruppe,Regierungssprecher,nrw
+15c,Axel Bäumer,1,1,2022 bis jetzt,3,NA,Union,2,NA,NA,"Europa, Internationales, Medien/ Staatskanzlei",nrw
 16c,Fabian Götz,1,1,NA,NA,NA,NA,NA,NA,NA,"Kommunales, Bau und Digitalisierung",nrw
 17c,Gerrit Weber,1,1,2017- 2022,2,3,NA,2,NA,NA,Innenministerium,nrw
 18c,Matthias Kietzmann,1,1,2011-2023,2,NA,NA,2,NA,FOCUS,"Wirtschaft, Industrie, Klimaschutz und Energie",nrw
@@ -338,19 +338,19 @@ AHb,Anna Härle,2,1,2022 bis 2024,5,"3,5",NA,NA,NA,NA,Ministerium der Justiz und
 JKb,Jenna Krause,2,1,NA,NA,NA,NA,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
 BHb,Benjamin Hechler,1,1,2024 bis jetzt,6,NA,Grüne,NA,NA,NA,Verkehrsministerium BW,bw
 WBb,Wenke Böhm,2,1,2021 bis jetzt,"2,4",NA,NA,2,NA,"Stuttgarter Zeitung, dpa, Heilbronner Stimme",Verkehrsministerium BW,bw
-JEb,Jonas Esterl,1,1,NA,NA,NA,CDU,NA,NA,NA,"Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz BW",bw
+JEb,Jonas Esterl,1,1,NA,NA,NA,Union,NA,NA,NA,"Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz BW",bw
 SSb,Sebastian Schreiber,1,1,2021 bis jetzt,4,NA,NA,NA,NA,NA,"Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz BW",bw
 RWb,Rainer Wehaus,1,1,2021 bis jetzt,2,NA,NA,2,NA,Stuttgarter Nachrichten,Ministerium für Landesentwicklung und Wohnen BW,bw
 RHb,Rudi Hoogvliet,1,1,2011 bis jetzt,6,NA,Grüne,NA,NA,NA,Staatsministerium BW,bw
 DBb,Denise Burgert,2,1,2016 bis jetzt,6,NA,NA,NA,NA,NA,"Ministerium für Wissenschaft, Forschung und Kunst BW",bw
-AAb,Aniello Ambrosio,1,1,2024 bis 2025,6,3,CDU,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
+AAb,Aniello Ambrosio,1,1,2024 bis 2025,6,3,Union,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
 GCb,Dr. Gunter Carra,1,1,NA,5,3,NA,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
 ENb,Edgar Neumann,1,1,2011 bis 2024,2,NA,NA,NA,NA,dpa,Verkehrsministerium BW,bw
 BRb,Benedikt Reinhard,1,1,2021 bis jetzt,"6,2",NA,NA,2,NA,"Dr. Josef Raabe Verlag, kicker","Ministerium für Kultus, Jugend und Sport BW",bw
 HLb,Hans Lange,1,1,2012 bis jetzt,NA,NA,NA,NA,NA,NA,"Ministerium für Kultus, Jugend und Sport BW",bw
 BJb,Bettina Jehne,2,1,2022,2,NA,Grüne,2,NA,"Schwäbische Zeitung, Reutlinger General-Anzeiger,","Ministerium für Umwelt, Klima und Energiewirtschaft BW",bw
-IKb,Isabel Kling,2,1,2016 bis 2023,6,3,CDU,NA,NA,NA,"Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz BW",bw
-RSb,Robin Schray,1,1,2016 bis 2022,5,NA,CDU,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
+IKb,Isabel Kling,2,1,2016 bis 2023,6,3,Union,NA,NA,NA,"Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz BW",bw
+RSb,Robin Schray,1,1,2016 bis 2022,5,NA,Union,NA,NA,NA,Ministerium der Justiz und für Migration BW,bw
 MEJb,Melanie Jerger,2,1,2021,NA,NA,NA,NA,NA,NA,"Ministerium für Wirtschaft, Arbeit und Tourismus BW",bw
 KLb,Katja Lumpp,2,1,2021,NA,NA,NA,NA,NA,NA,"Ministerium für Wirtschaft, Arbeit und Tourismus BW",bw
 RHeb,Ralf Heineken,1,1,2011 bis 2022,1,4,NA,1,NA,SWR,"Ministerium für Umwelt, Klima und Energiewirtschaft BW",bw
@@ -379,6 +379,7 @@ stz,Stuttgarter Zeitung,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 stn,Stuttgarter Nachrichten,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 jrv,Dr. Josef Raabe Verlag,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kick,kicker,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+
 
 
 
